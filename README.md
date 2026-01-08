@@ -27,7 +27,7 @@ Currently on Unit 42's **DFIR Innovation Team**, designing scalable solutions th
 **AI/ML**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/-Google_ADK-4285F4?style=flat&logo=google&logoColor=white)
 
 **Security Platforms**  

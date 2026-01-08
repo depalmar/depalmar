@@ -9,7 +9,7 @@
 
 ## About
 
-13+ years building security architecture, detection engineering, and DFIR capabilities at Palo Alto Networks, Rapid7, Liberty Mutual, IBM, and MIT Lincoln Laboratory.
+13+ years responding to major incidents, architecting security solutions, and building detection capabilities at Palo Alto Networks, Rapid7, Liberty Mutual, IBM, and MIT Lincoln Laboratory.
 
 Currently on Unit 42's **DFIR Innovation Team**, designing scalable solutions that integrate LLMs, automation, and data science to accelerate investigations across cloud, endpoint, and enterprise environments.
 

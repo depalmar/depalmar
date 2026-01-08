@@ -15,9 +15,12 @@ Currently on Unit 42's **DFIR Innovation Team**, designing scalable solutions th
 
 ## 🚀 Featured Project
 
-[![AI for the Win](https://github-readme-stats.vercel.app/api/pin/?username=depalmar&repo=ai_for_the_win&theme=dark)](https://github.com/depalmar/ai_for_the_win)
+### [AI for the Win](https://github.com/depalmar/ai_for_the_win)
 
 **50+ hands-on labs** teaching security practitioners to build AI/ML tools for threat detection, DFIR, and incident response. Includes Docker environment, Colab notebooks, and CTF challenges.
+
+[![Stars](https://img.shields.io/github/stars/depalmar/ai_for_the_win?style=social)](https://github.com/depalmar/ai_for_the_win)
+[![Forks](https://img.shields.io/github/forks/depalmar/ai_for_the_win?style=social)](https://github.com/depalmar/ai_for_the_win)
 
 ## 🛠️ Tech Stack
 

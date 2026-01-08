@@ -60,4 +60,4 @@ Currently on Unit 42's **DFIR Innovation Team**, designing scalable solutions th
 
 ---
 
-*"ML handles volume (cheap, fast), LLMs handle complexity (smart, expensive)."*
+*"ML scales detection, LLMs accelerate analysis, humans drive decisions."*

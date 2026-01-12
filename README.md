@@ -1,7 +1,7 @@
 # Raymond DePalma
 
-**Principal DFIR Technical Architect** at [Unit 42 by Palo Alto Networks](https://unit42.paloaltonetworks.com/)  
-*Building AI-powered solutions for incident response and threat hunting*
+**Security Architect | AI/ML Security Specialist | DFIR Expert**
+*Creator of AI for the Win - Teaching security practitioners to build AI-powered tools*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raymond-depalma)
 
@@ -9,28 +9,36 @@
 
 ## About
 
-13+ years responding to major incidents, architecting security solutions, and building detection capabilities at Palo Alto Networks, Rapid7, Liberty Mutual, IBM, and MIT Lincoln Laboratory.
+13+ years architecting security solutions, responding to major incidents, and building detection capabilities. Experienced across endpoint, cloud, and enterprise security platforms at scale.
 
-Currently on Unit 42's **DFIR Innovation Team**, designing scalable solutions that integrate LLMs, automation, and data science to accelerate investigations across cloud, endpoint, and enterprise environments.
+Specializing in **AI-powered security automation**, designing solutions that integrate LLMs, machine learning, and data science to accelerate threat detection, incident response, and threat hunting.
 
 ## 🚀 Featured Project
 
 ### [AI for the Win](https://github.com/depalmar/ai_for_the_win)
 
-**50+ hands-on labs** teaching security practitioners to build AI/ML tools for threat detection, DFIR, and incident response. Includes Docker environment, Colab notebooks, and CTF challenges.
+**50+ hands-on labs** teaching security practitioners to build AI/ML tools for threat detection, DFIR, and incident response. From ML basics to production-ready detection systems.
+
+**What's included:**
+- Docker environment with all dependencies
+- Google Colab notebooks for cloud execution
+- 18 CTF challenges for skill validation
+- Production-ready code examples
 
 [![Stars](https://img.shields.io/github/stars/depalmar/ai_for_the_win?style=social)](https://github.com/depalmar/ai_for_the_win)
 [![Forks](https://img.shields.io/github/forks/depalmar/ai_for_the_win?style=social)](https://github.com/depalmar/ai_for_the_win)
 
+**Commercial licensing available** for corporate training and bootcamps. [Learn more](https://github.com/depalmar/ai_for_the_win/blob/main/docs/COMMERCIAL_LICENSING.md)
+
 ## 🛠️ Tech Stack
 
-**AI/ML**  
+**AI/ML**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/-Google_ADK-4285F4?style=flat&logo=google&logoColor=white)
 
-**Security Platforms**  
+**Security Platforms**
 ![Cortex XSIAM](https://img.shields.io/badge/-Cortex_XSIAM-F04E23?style=flat&logo=paloaltonetworks&logoColor=white)
 ![Cortex XDR](https://img.shields.io/badge/-Cortex_XDR-F04E23?style=flat&logo=paloaltonetworks&logoColor=white)
 ![Cortex XSOAR](https://img.shields.io/badge/-Cortex_XSOAR-F04E23?style=flat&logo=paloaltonetworks&logoColor=white)
@@ -41,7 +49,7 @@ Currently on Unit 42's **DFIR Innovation Team**, designing scalable solutions th
 ![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-FF0000?style=flat&logo=crowdstrike&logoColor=white)
 ![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat&logo=elastic&logoColor=white)
 
-**Adversary Emulation**  
+**Adversary Emulation**
 ![MITRE Caldera](https://img.shields.io/badge/-MITRE_Caldera-1A1A1A?style=flat)
 ![AttackIQ](https://img.shields.io/badge/-AttackIQ-FF6B00?style=flat)
 ![SafeBreach](https://img.shields.io/badge/-SafeBreach-00D1B2?style=flat)
@@ -54,9 +62,9 @@ Currently on Unit 42's **DFIR Innovation Team**, designing scalable solutions th
 ## 💡 Current Focus
 
 - Multi-agent systems for automated incident response
-- LLM-powered threat hunting and analysis
-- XQL query optimization and detection engineering
-- Practitioner enablement and open-source tooling
+- LLM-powered threat hunting and detection engineering
+- Building open-source security tooling
+- Teaching practitioners to integrate AI into security operations
 
 ---
 

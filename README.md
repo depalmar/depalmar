@@ -28,7 +28,7 @@ Specializing in **AI-powered security automation**, designing solutions that int
 [![Stars](https://img.shields.io/github/stars/depalmar/ai_for_the_win?style=social)](https://github.com/depalmar/ai_for_the_win)
 [![Forks](https://img.shields.io/github/forks/depalmar/ai_for_the_win?style=social)](https://github.com/depalmar/ai_for_the_win)
 
-**Free for personal learning and academic use** under CC BY-NC-SA 4.0 license.
+**Free for personal learning** | **[Commercial licensing available](https://github.com/depalmar/ai_for_the_win/blob/main/docs/COMMERCIAL_LICENSING.md)** for corporate training and bootcamps.
 
 ## 🛠️ Tech Stack
 

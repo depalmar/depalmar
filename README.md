@@ -13,7 +13,7 @@
 
 Specializing in **AI-powered security automation**, designing solutions that integrate LLMs, machine learning, and data science to accelerate threat detection, incident response, and threat hunting.
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [AI for the Win](https://github.com/depalmar/ai_for_the_win)
 
@@ -29,6 +29,28 @@ Specializing in **AI-powered security automation**, designing solutions that int
 [![Forks](https://img.shields.io/github/forks/depalmar/ai_for_the_win?style=social)](https://github.com/depalmar/ai_for_the_win)
 
 **Free for personal learning** | **[Commercial licensing available](https://github.com/depalmar/ai_for_the_win/blob/main/docs/COMMERCIAL_LICENSING.md)** for corporate training and bootcamps.
+
+---
+
+### [AI-Powered Ransomware Intelligence Agent](https://github.com/depalmar/AI-Powered-Ransomware-Intelligence-Agent)
+
+[![n8n](https://img.shields.io/badge/n8n-Automation-F04747?logo=n8n&logoColor=white)](https://n8n.io/)
+[![Claude](https://img.shields.io/badge/AI-Claude_Opus-D97757?logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![Ollama](https://img.shields.io/badge/Local_LLM-Ollama-000000?logo=ollama&logoColor=white)](https://ollama.ai/)
+
+Companion n8n workflow suite for the **SANS Ransomware Intelligence Webinar**. Polls ransomware.live every 6 hours, runs AI threat analysis, and delivers rich interactive reports — automatically.
+
+**Three-tier workflow progression:**
+
+| Level | What it does | LLM Options |
+|-------|-------------|-------------|
+| **101** | Monitor + AI analysis + HTML/Slack report | Claude or Ollama (local) |
+| **200** | + IOC enrichment, YARA rules, historical trending, multi-channel | Claude or Ollama (local) |
+| **300** | + Multi-signal attribution, SIEM integration, IR playbooks, threat sharing | Claude Opus — *Webinar attendees* |
+
+**101 outputs a full dark-themed intelligence brief** — 8 KPI cards, MITRE ATT&CK mapping, attack lifecycle visualization, Chart.js charts, and group profiles. Runs 100% locally with Ollama or in the cloud with Claude.
+
+[![Stars](https://img.shields.io/github/stars/depalmar/AI-Powered-Ransomware-Intelligence-Agent?style=social)](https://github.com/depalmar/AI-Powered-Ransomware-Intelligence-Agent)
 
 ## 🛠️ Tech Stack
 

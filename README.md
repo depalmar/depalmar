@@ -9,7 +9,7 @@ multi-agent/LLM systems that turn raw telemetry into attributed intelligence, an
 detection logic in Sigma, YARA, and Suricata.
 
 **What I work on**
-- Tracking nation-state and criminal adversaries (APT, ransomware/RaaS, Scattered Spider/UNC3944, DPRK and Iranian operations)
+- Tracking nation-state and criminal adversaries (APT, ransomware/RaaS, Scattered Spider (Muddled Libra/UNC3944), DPRK and Iranian operations)
 - Detection engineering and threat-intelligence automation pipelines
 - Securing AI/ML systems (mapped to MITRE ATLAS and the OWASP LLM Top 10)
 

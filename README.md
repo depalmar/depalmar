@@ -30,6 +30,7 @@ When the victim is a model, an agent, or a pipeline, some of the evidence is on 
 
 * 🌟 **[ai_for_the_win](https://github.com/depalmar/ai_for_the_win)** - An open-source training program with 50+ hands-on labs and CTF challenges covering ML, LLMs, RAG, threat detection, DFIR, and red teaming. Colab notebooks, a Docker environment, and a companion site.
 * 🧰 **[ai-dfir-toolkit](https://github.com/depalmar/ai-dfir-toolkit)** - A vendor-neutral collection of Sigma, YARA, and Suricata rules for detecting compromise of LLM applications, MCP servers, ML supply chains, AI infrastructure, AI-powered insider threats, and RAG and vector database attacks. Apache 2.0.
+* 🧱 **[edge-dfir-toolkit](https://github.com/depalmar/edge-dfir-toolkit)** - Forensic triage for compromised firewalls, VPN concentrators, and gateways across 10 platforms: read-only collection plans in order of volatility, 142 detections with Sigma and YARA rules, response playbooks that open with what not to do, and a record for each exploited CVE with when exploitation began, quoted from the sources. It never calls a device clean. Apache 2.0, with a [companion site](https://depalmar.github.io/edge-dfir-toolkit/).
 * 🤖 **[AI-Powered-Ransomware-Intelligence-Agent](https://github.com/depalmar/AI-Powered-Ransomware-Intelligence-Agent)** - An automated n8n and Claude pipeline that ingests leak-site data and converts it into structured, MITRE ATT&CK-mapped threat intelligence. Companion to the SANS ransomware intelligence webinar.
 
 ---

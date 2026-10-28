@@ -3,7 +3,7 @@
 **Founder and President, DePalma Research LLC**  
 *Digital Forensics and Incident Response for AI Systems • Detection Engineering • Threat Intelligence • Applied AI for Security*
 
-14 years across incident response, threat hunting, intrusion analysis, and detection engineering: from a DoD Top Secret clearance at MIT Lincoln Laboratory to leading critical breach and zero-day investigations as Principal DFIR Technical Architect at Unit 42 (Palo Alto Networks). In October 2026 I started DePalma Research to work on one question most organizations have not planned for: what do you do when the victim is an AI system?
+14 years across incident response, threat hunting, intrusion analysis, and detection engineering at MIT Lincoln Laboratory (with a DoD Top Secret clearance), Liberty Mutual, IBM Managed Security Services, Rapid7, and most recently Unit 42, where I led critical breach and zero-day investigations as Principal DFIR Technical Architect. In October 2026 I started DePalma Research to work on one question most organizations have not planned for: what do you do when the victim is an AI system?
 
 When the victim is a model, an agent, or a pipeline, some of the evidence is on the host and the rest is somewhere investigators were never trained to look: prompt histories, tool calls, embedding stores, agent state, and inference logs that age out in hours. The habits of good DFIR still hold. The artifacts, the acquisition, and the questions are new.
 
